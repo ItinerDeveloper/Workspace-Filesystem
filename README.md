@@ -101,4 +101,4 @@ Where:
 
 ---
 
-This service is part of the Itiner Workspace integrations and is designed to facilitate scheduling and managing calendar events by interfacing with an Exchange server.
+This service is part of the Itiner Workspace integrations and it allows the exportation of data to a configured file system.
